@@ -4,7 +4,7 @@ Source code for a convex surrogate operator for non-modular loss function descri
 
 Yu, J. and M. B. Blaschko: A Convex Surrogate Operator for General Non-Modular Loss Functions. AISTATS, 2016
 
-An example implementation is provide in main.m which trains with a non-modular loss function defined in testLossFunc.m
+An example implementation is in main.m which trains with the non-modular loss function(s) defined in testLossFunc.m
 
 See the comments in each script for details.
 
